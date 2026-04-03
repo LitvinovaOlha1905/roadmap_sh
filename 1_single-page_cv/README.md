@@ -4,7 +4,7 @@
 
 Create a single-page HTML CV to showcase your career history
 
-##
+## Requirements
 
  - [x] Semantically correct HTML structure.
  - [x] Single-page layout with sections for education, skills, and career history.
